@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    min-height: 100vh;
+    font-family: serif;
+    text-align: center;
+
+}
+
+div {
+    font-size: 2rem;
+    color: #111;
+}
